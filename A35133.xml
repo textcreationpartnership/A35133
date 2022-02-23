@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some reasons why the people called Quakers do absent from the publique way of worship and cannot conform thereunto though they are exposd to great sufferings because thereof and also why they cannot swear at all and whether if be out of obstinacy or conscientiousness resolved / presented in the love and fear of the Lord to the serious consideration of all justices and all others who are moderately enquiring into this matter by J.C.</title>
+            <author>Crook, John, 1617-1699.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35133</idno>
+            <idno type="STC">Wing C7214</idno>
+            <idno type="STC">ESTC R37696</idno>
+            <idno type="EEBO-CITATION">17002895</idno>
+            <idno type="OCLC">ocm 17002895</idno>
+            <idno type="VID">105712</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35133)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105712)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1613:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some reasons why the people called Quakers do absent from the publique way of worship and cannot conform thereunto though they are exposd to great sufferings because thereof and also why they cannot swear at all and whether if be out of obstinacy or conscientiousness resolved / presented in the love and fear of the Lord to the serious consideration of all justices and all others who are moderately enquiring into this matter by J.C.</title>
+                  <author>Crook, John, 1617-1699.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1665]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated on p. 8: Reading Goal the 22th day of 5th moneth, 1665.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Public worship --  Society of Friends.</term>
+               <term>Society of Friends --  Doctrines.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:105712:1" rendition="simple:additions"/>
+            <head>SOME REASONS WHY The People called <hi>Q<g ref="char:V">Ʋ</g>AKERS</hi> do abſent from the Publique way of Worſhip, and cannot Conform thereunto, though they are expoſed to great ſufferings becauſe thereof.</head>
+            <head type="sub">AND ALSO Why they cannot Swear at all, and whether it be out of Obſtinacy, or Conſcientiouſneſs reſolved.</head>
+            <head type="sub">PRESENTED In the love and fear of the Lord to the ſerious Conſidera<g ref="char:EOLhyphen"/>tion of all Juſtices, and all others who are moderately enquiring into this matter, by <hi>J. C.</hi>
+            </head>
+            <p>WEE are a People that have deſired and diligently enqui<g ref="char:EOLhyphen"/>red after the true knowledge of God, &amp; the way in which he is Worſhipped, in which way we deſire to walk, and after much ſeeking and ſerious conſideration we do find and are perſwaded in our hearts and Conſciences,</p>
+            <p>Firſt, That God is a Spirit, and that his Worſhip is Spiritual, according as Chriſt hath ſaid, <hi>Joh.</hi> 4.24. and that none are true Worſhippers but ſuch as worſhip in the ſpirit and in truth.</p>
+            <p>Secondly, That Men muſt firſt Feel and receive a meaſure of the Spirit of the Lord, before they can come to know the true way of Worſhip, which is only learned in the Spirit, <hi>Ver.</hi> 22, 23.</p>
+            <p>Thirdly, That no Man upon the Earth, can or ought to pre<g ref="char:EOLhyphen"/>ſcribe how or after what manner God Almighty is to be Wor<g ref="char:EOLhyphen"/>ſhipped, ſo as to impoſe any practices upon Men, but is to leave that to him to direct them by his good Spirit in things pertaining to his Worſhip, and he is to perſwade them thereunto, and that they ought not to be compelled or forced to the true Worſhip,
+<pb n="2" facs="tcp:105712:2"/>much leſs to that which is ſo juſtly ſuſpected by many people not to be the true way of Worſhip.</p>
+            <p>And it doth appear to us that the publique way of Worſhip, or the Worſhip of the Church of <hi>England</hi> is very much different from this Spiritual Worſhip, for we do ſee that they have not re<g ref="char:EOLhyphen"/>ceived the meaſure of the Spirit of Chriſt, which leads into all truth; but they do daily rebell and tranſgreſs againſt it, doing thoſe things that they ſhould not, and leaving undone thoſe things which they ought to do, ſo that they are without Spiritual health, &amp; theſe cannot be the ſpiritual Worſhippers, for they that do wor<g ref="char:EOLhyphen"/>ſhip in the Spirit, do feel health and peace in it, and therefore we have good reaſon to abſent from the publique way of Worſhip.</p>
+            <p>And becauſe that thoſe that do frequent that Worſhip are not born again of the Spirit of Chriſt, <hi>Joh.</hi> 3.3. but are ſtill in an un<g ref="char:EOLhyphen"/>regenerate ſtate, following the pleaſures and vanities of ſin, and do live in all manner of wickedneſs, as ſwearing, lying, drunken<g ref="char:EOLhyphen"/>neſs, whoredom, murder, couſening and cheating, and what other evils may be mentioned, but may be found among thoſe Wor<g ref="char:EOLhyphen"/>ſhippers, and theſe are the works and fruits of the fleſh, and not of the ſpirit of God, <hi>Gal.</hi> 5. and therefore we do abſent from that Worſhip.</p>
+            <p>Beſides they do not ſeek to draw and win People by love and tenderneſs, and by the example of a good Converſation, but do labour by violent force and compulſion to bring People to their Worſhip, which the true Worſhippers and Chriſtians never did, and do perſecute and cauſe ſuch to ſuffer, who are otherwiſe minded that cannot come to their Church and Worſhip according to their preſcriptions, which the true Worſhippers never did; but ſaid, if any were otherwiſe minded God ſhould reveal the ſame unto them, <hi>Phil.</hi> 3.15. and they did not by force impoſe their Religion upon others: But we do believe that that way of impoſing of Religion upon People is of Antichriſt, and that all that ever do ſo impoſe are in the way of Antichriſt, and we do and muſt abſent from them.</p>
+            <p>And alſo we find their Miniſtry is much different from the Mini<g ref="char:EOLhyphen"/>ſtry of the true Church of Chriſt both in call, maintenance, Doctrine and Converſation; for they were Miniſters of the Spirit and not of the Letter, 2 <hi>Cor.</hi> 3. neither were they called by man, nor taught by man the things which they did preach, neither
+<pb n="3" facs="tcp:105712:2" rendition="simple:additions"/>did they receive it from man, but by the Revelation of Jeſus Chriſt, <hi>Gal.</hi> 1. and they had received his Spirit, by which the deep things of God are revealed, 1 <hi>Cor.</hi> 2. But theſe Miniſters are made at <hi>Oxford,</hi> or <hi>Cambridge,</hi> by learning Natural Languages and old Books and Authors, and ſerve ſuch a time there before they go forth, and when they have attain'd that, then they run when the Lord never ſent them, and they uſe their congues and ſay he ſaith it, when the Lord never ſpoke to them, nor called them forth to preach his Word, but they are made Miniſters by man, and ſent out by man, and two or three hundred pounds a year calls them thither, and there they will ſtay for their bellies, and ſuch the true Prophets and ſervants of the Lord witneſſed againſt as may be ſeen, <hi>Iſa.</hi> 56. <hi>Jer.</hi> 23. <hi>Mich.</hi> 3. and the Miniſters of Chriſt did give freely as they had freely received, according to Chriſt command, <hi>Mat.</hi> 10. But theſe Miniſters receives and forces Tythes from the People which Chriſt came to put an end to, <hi>Rom.</hi> 10.4. And the Apoſtle ſaid, the Prieſthood being chan<g ref="char:EOLhyphen"/>ged there is made of neceſſity a change alſo of the Law, by which Law Tythes were paid, <hi>Heb.</hi> 7. which the Miniſters of Chriſt ne<g ref="char:EOLhyphen"/>ver received, much leſs to force people to pay them, but did wit<g ref="char:EOLhyphen"/>neſs againſt them, for they pertained only to the Prieſts of the firſt Covenant; and ſo in their maintenance we find them con<g ref="char:EOLhyphen"/>trary to the Miniſters of Chriſt; and alſo they differ in their Doctrine, for the Miniſters of Chriſt did preach that People might wait to receive Chriſt into their hearts, and that they might know Chriſt in them, elſe they were reprobates; and if Chriſt was in them the body was dead becauſe of ſin, and they came to be dead unto ſin, and every particular Member of their Church was to know the Spirit of Chriſt in them, and if any man had not the Spirit of Chriſt he was none of his, &amp;c. <hi>Romans</hi> 8. But theſe Miniſters tells the people that they are Chriſtians, and the Church of Chriſt, though they know nothing of this in them, but do live wickedly in ſin and unrighteouſneſs, and are dead to truth and feel nothing of the opperation of the ſpirit of Chriſt in them, but do ſtill ſin againſt it, doing that they ſhould not do, and leave<g ref="char:EOLhyphen"/>ing undone that which they ſhould do, and are not ſaved from ſin nor made free by the truth, and they tell them they muſt never expect to be free from ſin, nor to know the Revelation of Jeſus Chriſt, (as former Chriſtians did) nor to know the power of God to work mightily and effectually in them to deſtroy the workes of
+<pb n="4" facs="tcp:105712:3"/>the Devil while they are on this ſide the grave, and ſo ſtill keeps them in blindneſs and ignorance, ever learning but ſtill laden with fin and divers luſts, and never able to come to the knowledge of the Truth which makes free, as we have ſeen, and therefore we have denyed them, and we do believe with the Miniſters of Chriſt that the truth makes free, and that it is poſſible to know Chriſt ſo made manifeſt within as to deſtroy the Devils works, and to ſave from ſin, and that he that is born of God ſins not, we ſay we be<g ref="char:EOLhyphen"/>lieve that ſuch a ſtate is attainable on this ſide the grave, and yet we do acknowledge there is a ſtate the Saints knew and paſſed through, in which if we ſhould ſay we have no ſin we deceive our ſelves, and the truth is not in us, but if we confeſs our ſins he is faithful and juſt to forgive us our ſins, and to cleanſe us from all unrighteouſneſs; and this was ſpoken to little Children in the truth that they ſhould not ſin, <hi>Joh.</hi> 2. But there was Fathers that had known the truth, and young men that were ſtrong in whom the Word of God dwelt, that had (take notice) overcome the wicked one, many other things might be mentioned, but theſe may be ſufficient to ſhew why we deny that Miniſtry which hath not profited the People at all, but they are proud and covetous, as thouſands do know.</p>
+            <p>Again we do abſent from the publique way of Worſhip be<g ref="char:EOLhyphen"/>cauſe of its deadneſs and formality, becauſe we cannot find that the immortal Souls of people are refreſhed therein, nor that any true and ſpiritual comfort is received thereby; and we do be<g ref="char:EOLhyphen"/>lieve and upon true ſearch and examination do find, and alſo are perſwaded in our Conſciences (and that by the ſpirit of the Lord) that the moſt part of their Ceremonies and practices in their Worſhip are but the vain Traditions of Men, and no Heavenly divine inſtitutions, and we may ſay as the Apoſtle ſaid in another caſe, they do not make the Comers thereunto any whit the better, but they are ſtill miſerable and dead, and want that which only can give life and ſatisfaction to the ſoul; to wit, the Knowledge of Chriſts appearance in themſelves, and of his life and vertue: We might mention many Ceremonies and practices, and ſpeak particularly to them, but we would not be too tedious, but do ſpeak as to the whole in theſe few words.</p>
+            <p>And having ſeen theſe things that they want the ſpirit of the Lord to exerciſe them in their Worſhip, that they are not born
+<pb n="5" facs="tcp:105712:3" rendition="simple:additions"/>of it, that they want the fruits of it, that they force and perſe<g ref="char:EOLhyphen"/>cute people that cannot for conſcience ſake conform to their way of Worſhip, that their Miniſtry differs from the Miniſtry of Chriſt, in Call, Maintenance, Converſation and Doctrine, and is the very ſame which the falſe Prophets and Deceivers in the dayes of old being found in their very ſteps and practiſes, &amp;c. That their wor<g ref="char:EOLhyphen"/>ſhip is dead, formal and carnal, and doth not give ſatisfaction to the ſoul, we cannot conform to it, but have denyed it upon juſt ground, and in Conſcience to the Lord do abſent from it, and not out of obſtinacy, as ſome would accuſe us.</p>
+            <p>And again we do abſent from it, becauſe we have found a bet<g ref="char:EOLhyphen"/>ter way, in which we can truſt our ſoules, and do find health and peace, and ſpiritual comfort, and true ſatisfaction in this way in which we now walk with the Lord, and do worſhip him in ſpirit and truth, and we do find his living preſence in our Aſſemblings together in the worſhip and ſervice of God, for we meet together to wait upon him and to perform holy duty to him, and do ſpeak as his ſpirit moveth in us, and gives us utterance, and to pray in the ſpirit, and this only is acceptable unto him, and this is ſpiri<g ref="char:EOLhyphen"/>tual worſhip when the ſpirit of the Lord exerciſeth Man in the things he performeth towards God, and if his ſpirit doth not ſtir or move in us, we are ſilent, waiting to hear the Lord ſpeak<g ref="char:EOLhyphen"/>ing in our ſoules, and this is according to the Saints practiſe; and becauſe we have found great peace and ſatisfaction to our ſoules in this way in which we now walk, we cannot deny it what ever we ſuffer, and we do chooſe rather to obey the Lord, that we may have and feel his peace in our hearts, then to obey Men to avoid all ſufferings.</p>
+            <p>And becauſe we would not looſe that peace, and make ſhip<g ref="char:EOLhyphen"/>rack of our faith, we cannot conform to the publick way of wor<g ref="char:EOLhyphen"/>ſhip, and not out of any wilfulneſs or obſtinacy, and we do de<g ref="char:EOLhyphen"/>ſire to ſpend our dayes in the fear of God, and to walk in juſtneſs and righteouſneſs towards all Men, and to do unto every Man, as we would they ſhould do unto us, and to love God with all our hearts, and our neighbours as our ſelves, and to avoid the ſins and groſs iniquities and abominations that do daily abound among thoſe that are of the publick way of worſhip, and we dare not riot in the day time, nor ſpend our precious time in vanity, nor waſt Gods good Creatures, and ſpend them upon the luſts, which
+<pb n="6" facs="tcp:105712:4"/>will be the cauſe of Gods ſevere Judgments to come upon Men and Nations, and we cannot go with multitudes to do evil, but muſt have reſpect to the Lord God that made us, to live unto him, that we may dye in his love and favour, and that we may be Heires of that Kingdom which is everlaſting, into which the ſayers, Lord, Lord, muſt not enter, but thoſe that do his will, and this is that we ſeek, and which is our only end and aim the Lord knowes; and if for this we muſt be hated and afflicted we cannot help it, for we muſt not deny the Lord, but will truſt in him though we dye and periſh outwardly for our obedience to him, and becauſe this is our deſire and reſolution we do abſent from the publick way of worſhip, and cannot have fellowſhip with the unfruitfull workers and workes of darkneſs, but do ra<g ref="char:EOLhyphen"/>ther reprove them.</p>
+            <div type="part">
+               <p>And as for our refuſing to ſwear, we would have all men to know,</p>
+               <p>That it is not out of obſtinacy or wilfulneſs that we do refuſe or as though we had any reſerve to our ſelves, becauſe we cannot ſwear Allegiance to the King, as if we would plot or contrive miſchief againſt him; No God knowes, and his people knowes, and the witneſs of God in the Conſciences of our very adverſa<g ref="char:EOLhyphen"/>ries will one day teſtifie for us, that this is not the cauſe why we refuſe to ſwear, but it is only and ſingly in pure obedience and Conſcience to the Lord Jeſus Chriſt, who hath ſaid, <hi>ſwear not at all,</hi> and this is his command unto his followers, though it was ſaid by them of old time, thou ſhalt not forſwear thy ſelf, but ſhalt per<g ref="char:EOLhyphen"/>form thine Oathes unto the Lord: they might then ſwear, for it was commanded, but now Chriſt being come who is the end of the Law and fulfiller of it, ſaith, <hi>Swear not at all,</hi> by which it is cleer that all ſwearing is forbiden, for the Law did forbid and prohibit all vain and frivoleſs ſwearing, and if theſe words of Chriſt did reach no further then to prohibit that, (as ſome would limit them) then Chriſt had only forbid that which before was forbiden by the Law, but it is very plain his words do extend further, becauſe he repeats what before was forbiden and com<g ref="char:EOLhyphen"/>manded, and then goes on further, But I ſay unto you ſwear not at all, &amp;c. And how he could have ſpoken more fuller I cannot tell: and alſo the Apoſtle <hi>James</hi> preaches the ſame Doctrine with
+<pb n="7" facs="tcp:105712:4"/>the ſame abſolute prohibition, <hi>But above all things my Brethren ſwear not,</hi> (for it was ſo poſitively forbiden by Chriſt that he put that as it were above all things) <hi>neither by Heaven nor Earth,</hi> (mark) <hi>nor any other Oath,</hi> no Oath was to be ſworn by the true Chriſtians who were brought out of the ſtrife that was among Men, into love, and peace, and good will towards all men; And truly it is a token of darkneſs and much ignorance, that any Man profeſſing Chriſtianity ſhould have any word to ſay againſt ſuch a thing which is ſo cleerly forbiden, and how many Chriſtians have ſuffered ſince for refuſing to ſwear, appeares by ſeveral ancient Hiſtories; and upon the ſame account only do we refuſe to ſwear at this day, having received the Chriſtian ſpirit, which in us ſaith ſwear not, and therefore upon this general account we cannot ſwear Allegiance to the King, but we can and have proffered to promiſe in faithfulneſs, and do deſire that the ſame puniſhment may be inflicted upon thoſe that break their word and promiſe as on them that breaks their Oathes, and if this were taken it would appear that we make as much conſcience (and more) to keep our Promiſe as any men do their Oathes, and it is to the full as binding to us, for it is a common ſaying among men, <hi>thoſe that will ſwear will lie;</hi> and many that will now ſwear Allegiance to the King to ſave their outward liberty would ſoon ſwear againſt him upon oc<g ref="char:EOLhyphen"/>caſion; and if it had been known that ever we could ſwear in any caſe ſince we were a people, and would not now ſwear Allegiance to the King, then indeed there were great cauſe of ſuſpition; but we have always denyed to ſwear in any caſe ſince we knew the truth, and had the Spirit of Chriſt to guide us, and have ſuffered upon divers accounts in former days; and therefore, in reaſon and juſtice we ought not to ſuffer in this caſe for refuſing to ſwear Allegiance to the King, neither ought men to inſnare us becauſe of the tenderneſs of our Conſciences to the Lord; for we have al<g ref="char:EOLhyphen"/>wayes deſired the good and happineſs of the King and all Men, in this World, and that which is to come; and in as much as we live in the fear of God, and peaceable, it is that which brings honour to good Government &amp; Kings when Subjects do live in the fear of God, and ſuch as do live wickedly in ungodly ways and practi<g ref="char:EOLhyphen"/>ces, diſhonours God and good Government, and Kings too: And we are for peace, and deny that Spirit that would plot or contrive miſchief againſt the King, or any Man's perſon; for our Principle
+<pb n="8" facs="tcp:105712:5"/>is peaceable, and leads to love and good will towards all Men, which is the Principle of Truth and honeſty, as will appear when all falſe ſuſpitions will die, and the refuge of lies and evil reports will be ſwept away. And thus we have ſpoken the truth in naked<g ref="char:EOLhyphen"/>neſs, deſiring that it may be for good unto all to whom it may come.</p>
+               <p>We are lovers of Truth and Righteouſneſs, and every one that truly deſires to walk therein, in which alone true Happineſs and Everlaſting peace is enjoyed by all ſuch as do believe and walk in the Light of Righteouſneſs which leads out of the evil way which the Sons of Men have long run on in, in the time of great darkneſs, which hath overſhadowed the Earth, which ſhall paſs away, and light will ſhine more and more in the hearts of Men, in which all that do walk ſhall know the Salvation of God, and partake of his mercies and great loving kindneſs, and Praiſe and Magnifie his Glorious Name for evermore.</p>
+            </div>
+            <closer>
+               <dateline>
+                  <hi>Reading Goal</hi> 
+                  <date>the 22th. <hi>day of 5th. Moneth,</hi> 1665.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:105712:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
